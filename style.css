@@ -129,6 +129,6 @@ footer{
     grid-area: 5/1/6/2;
 }
 .r {
-  background: hsl(179,70%,66%); /* Corrected line: background color property */
-  grid-area: empty; /* Corrected line: grid area property */
+  background: hsl(179,70%,66%); 
+  grid-area: empty;
 }
